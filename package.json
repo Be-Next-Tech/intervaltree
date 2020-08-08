@@ -6,7 +6,7 @@
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
   "repository": "https://github.com/pujitm/intervaltree",
-  "license": "MIT",
+  "license": "Unlicense",
   "keywords": ["interval", "tree", "range", "date"],
   "scripts": {
     "describe": "npm-scripts-info",
