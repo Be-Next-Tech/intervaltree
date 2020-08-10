@@ -7,7 +7,12 @@
   "module": "build/module/index.js",
   "repository": "https://github.com/pujitm/intervaltree",
   "license": "Unlicense",
-  "keywords": ["interval", "tree", "range", "date"],
+  "keywords": [
+    "interval",
+    "tree",
+    "range",
+    "date"
+  ],
   "scripts": {
     "describe": "npm-scripts-info",
     "build": "run-s clean && run-p build:*",
@@ -45,9 +50,7 @@
   "engines": {
     "node": ">=8.9"
   },
-  "dependencies": {
-    "sha.js": "^2.4.11"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@bitjson/npm-scripts-info": "^1.0.0",
     "@bitjson/typedoc": "^0.15.0-0",

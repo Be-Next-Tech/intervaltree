@@ -1,5 +1,7 @@
 # intervaltree
 
+> Inspired by https://github.com/chaimleib/intervaltree (Python 2/3 Interval Tree Implementation)
+
 A mutable, self-balancing interval tree.
 
 ## Contributing
